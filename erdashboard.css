@@ -1,0 +1,45 @@
+<style type="text/css">
+table.sample {
+	border-width: 0px 0px 0px 0px;
+	border-spacing: 0px;
+	border-style: solid solid solid solid;
+	border-color: silver silver silver silver;
+	border-collapse: collapse;
+	background-color: white;
+	font-family: Calibri, Georgia, Palatino Linotype, Palatino, Tahoma, Arial, SunSans-Regular, sans-serif; 
+	font-size: small;
+
+}
+table.sample td {
+	border-width: 1px 1px 1px 1px;
+	padding: 1px 1px 1px 1px;
+	border-style: none solid solid none;
+	border-color: silver silver silver silver;
+	font-family: Calibri, Palatino Linotype, Palatino, Tahoma, Arial, SunSans-Regular, sans-serif; 
+	font-size: x-small;
+	/*-moz-border-radius: 0px 0px 0px 0px;*/
+}
+table.sample th {
+	border-width: 1px 1px 1px 1px;
+	padding: 8px 1px 8px 1px;
+	border-style: solid none none solid;
+	border-color: silver silver silver silver;
+	font-family: Calibri, Palatino Linotype, Palatino, Tahoma, Arial, SunSans-Regular, sans-serif; 
+	font-size: x-small;
+	-moz-border-radius: 0px 0px 0px 0px;
+	writing-mode: tb-rl;
+	filter: flipV flipH;
+}
+table.header{
+	border-width: 0px 0px 0px 0px;
+	border-spacing: 0px;
+	border-style: none none none none;
+	border-color: silver silver silver silver;
+	border-collapse: collapse;
+	background-color: white;
+	font-family: Calibri, Georgia, Palatino Linotype, Palatino, Tahoma, Arial, SunSans-Regular, sans-serif; 
+	font-size: x-small;
+
+}
+
+</style>

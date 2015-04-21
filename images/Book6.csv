@@ -1,0 +1,223 @@
+UNIT|ROOM|BED|NAME|DISEASE_ALERT|ISOLATION|MRN|VISIT|AGE|SEX|ADMIT|MED_SERVICE|ACCOM_REQUEST|ACCOM_ASSIGN|ATTEND_PHYS|DIAGNOSIS
+10HAU_UNV|10-008|A|||||||||||||
+10HAU_UNV|10-009|A|FRIEDMAN, HELEN|||430-553-610|2015-515664| 95 Years|F|2015/03/11|General Medicine|Ward|Ward|Balter, Meyer|Intracranial hemorrhage
+10HAU_UNV|10-010|A|HARRISON, JO-ANN SHERYL|Droplet/Contact|Yes|806-002-289|2015-557007| 62 Years|F|2015/04/09|General Medicine|Ward|Ward|Janice Kwan, MD|pulmonary fibrosis
+10HAU_UNV|10-011|A|LEE, SANG SEOL|||806-002-213|2015-554676| 85 Years|M|2015/04/08|General Medicine|Ward|Ward|Janice Kwan, MD|Sepsis
+10HAU_UNV|10-012|A|||||||||||||
+10HAU_UNV|10-013|A|BRIDGE, LINDSAY ALICIA||No|805-921-230|2015-080760| 35 Years|F|2014/05/26|General Medicine|Private|Ward|Laveena Munshi, MD|PREGNANCY
+10N UNV|10-044|A|DEY, MIRA RANI|C Difficile Posi|Yes|806-000-675|2015-541816| 73 Years|F|2015/03/29|General Medicine|Ward|Private|Shiphra Ginsburg, MD|IBD flare
+10N UNV|10-105|A|RAXON, LUIS EDUARDO|||806-002-166|2015-554591| 29 Years|M|2015/04/07|General Medicine|Unknown|Semi-private|Mirek Otremba, MD|DKA
+10N UNV|10-106|A|LAROCQUE, ELEANOR MARIE|MRSA Positive|Yes|438-588-311|2015-489350| 83 Years|F|2015/02/23|General Medicine|Ward|Semi-private|Mirek Otremba, MD|Dysphagia
+10N UNV|10-107|A|PETRONE, MARIA|||806-002-554|2015-557498| 49 Years|F|2015/04/09|General Medicine|Ward|Semi-private|Mirek Otremba, MD|END STAGE LUNG CANCER
+10N UNV|10-108|A|KIM, BYEONG-HAK|||805-998-823|2015-528546| 83 Years|F|2015/03/19|General Medicine|Ward|Ward|Janice Kwan, MD|Subdural Hematoma
+10N UNV|10-108|B|KENT, EVELYN AGNES NUNN|||430-741-371|2015-509088| 86 Years|F|2015/03/07|General Medicine|Unknown|Ward|Shiphra Ginsburg, MD|Aspiration
+10N UNV|10-108|C|HATEGAN, LUCIA||No|805-681-063|2015-354848| 70 Years|F|2014/11/21|General Medicine|Ward|Ward|Janice Kwan, MD|fall
+10N UNV|10-108|D|ILLINGWORTH, JOAN BURRIDGE||No|000-872-143|2015-551816| 86 Years|F|2015/04/05|General Medicine|Ward|Ward|Janice Kwan, MD|Abdominal pain
+10N UNV|10-109|A|LIU, QI XUAN|||806-001-574|2015-549431| 84 Years|F|2015/04/02|General Medicine|Unknown|Semi-private|Shiphra Ginsburg, MD|NNSepsis
+10N UNV|10-109|B|TSO, CHE LINE||No|803-539-329|2015-554721|101 Years|F|2015/04/08|General Medicine|Ward|Semi-private|Balter, Meyer|Sepsis
+10N UNV|10-110|A|GARDNER, JANET SIMPSON|||805-996-323|2015-509042| 76 Years|F|2015/03/06|General Medicine|Ward|Semi-private|Mirek Otremba, MD|Agitation
+10N UNV|10-110|B|||||||||||||
+10N UNV|10-118|A|PITENIS, ANGELA|||805-535-191|2015-554691| 91 Years|F|2015/04/08|General Medicine|Ward|Private|Mirek Otremba, MD|Metabolic derangements ?sepsis
+10N UNV|10-119|A|BEAZER, EVELYN|||805-976-163|2015-446261| 70 Years|F|2015/01/26|General Medicine|Ward|Semi-private|Shiphra Ginsburg, MD|Dementia
+10N UNV|10-119|B|PERALTA, VILMA ENEIDA|||806-002-483|2015-557061| 71 Years|F|2015/04/09|General Medicine|Ward|Semi-private|Janice Kwan, MD|pyelonephritis
+10N UNV|10-120|A|ALDEIA, MANUEL CAETANO|||805-731-460|2015-556932| 88 Years|M|2015/04/08|General Medicine|Unknown|Semi-private|Janice Kwan, MD|CHF
+10N UNV|10-120|B|MANOUSIADIS, GEORGE||No|459-702-684|2015-002258| 67 Years|M|2014/04/01|General Medicine|Ward|Semi-private|Balter, Meyer|Stroke
+10N UNV|10-121|A|OHRSTROM, ANDER|||805-984-449|2015-415973| 75 Years|M|2015/01/07|General Medicine|Ward|Semi-private|Janice Kwan, MD|ALOC
+10N UNV|10-121|B|CYR, GERALD|||805-999-755|2015-535289| 74 Years|M|2015/03/24|General Medicine|Ward|Semi-private|Shiphra Ginsburg, MD|delirium NYD
+10N UNV|10-122|A|MACK, WILLIAM HENRY|||805-999-789|2015-535370| 97 Years|M|2015/03/25|General Medicine|Ward|Semi-private|Janice Kwan, MD|Acute on Chronic Kidney Injury
+10N UNV|10-122|B|LO, PONG KIT|||802-057-646|2015-559209| 80 Years|M|2015/04/09|General Medicine|Unknown|Semi-private|Mirek Otremba, MD|Syncope
+10N UNV|10-123|A|MORE, MARY EUGENIE|||803-600-527|2015-530039| 91 Years|F|2015/03/20|General Medicine|Ward|Semi-private|Mirek Otremba, MD|Falls
+10N UNV|10-123|B|OAKLEY, MARGARET ANNE|||805-548-964|2015-498578| 71 Years|F|2015/03/02|General Medicine|Semi-private|Semi-private|Shiphra Ginsburg, MD|Polyneuropathy
+10N UNV|10-124|A|HENRY, MAURICE EDWARD||No|805-500-346|2015-532957| 76 Years|M|2015/03/23|General Medicine|Unknown|Semi-private|Shiphra Ginsburg, MD|Fall
+10N UNV|10-124|B|LECKIE, WILLIAM ALEXANDER|||805-664-240|2015-553801| 86 Years|M|2015/04/07|General Medicine|Unknown|Semi-private|Mirek Otremba, MD|?seizure
+10N UNV|10-125|A|HOWARD, DOROTHY HATTON||No|805-962-730|2015-478492| 90 Years|F|2015/02/16|General Medicine|Ward|Semi-private|Balter, Meyer|Fall
+10N UNV|10-125|B|JAMES, VERONICA ANNE|||806-000-335|2015-539492| 65 Years|F|2015/03/26|General Medicine|Unknown|Semi-private|Shiphra Ginsburg, MD|Empyema
+10S_UNV|10-004|A|||||||||||||
+10S_UNV|10-005|A|CHARLEBOIS, PAULINE THERESE|||805-570-509|2015-541214| 73 Years|F|2015/03/28|General Medicine|Unknown|Private|Balter, Meyer|Lithium toxicity
+10S_UNV|10-029|A|JACKSON, JOHN HENRY|||805-517-083|2015-524598| 76 Years|M|2015/03/17|General Medicine|Unknown|Semi-private|Shiphra Ginsburg, MD|Impaired mobility
+10S_UNV|10-029|B|MARTIN, WILFRED|||457-351-013|2015-550617| 57 Years|M|2015/04/02|General Medicine|Unknown|Semi-private|Balter, Meyer|osteomyelitis
+10S_UNV|10-030|A|COOK, LARRY ROBERT ADAM||No|805-206-840|2015-412031| 55 Years|M|2015/01/05|General Medicine|Unknown|Semi-private|Shiphra Ginsburg, MD|CAP
+10S_UNV|10-030|B|LEE, KWONG TAK|||805-998-195|2015-543934| 66 Years|M|2015/03/30|General Medicine|Unknown|Semi-private|Janice Kwan, MD|EPIDURAL ABSCESS
+10S_UNV|10-031|A|||||||||||||
+10S_UNV|10-031|B|DO, THIEN THAO THI|Pulmonary TB Inf|Yes|805-965-350|2015-448885| 43 Years|F|2015/01/27|General Medicine|Ward|Semi-private|Janice Kwan, MD|TB
+10S_UNV|10-032|A|MILIONIS, CHRISTOS|||801-764-200|2015-543991| 54 Years|M|2015/03/31|General Medicine|Semi-private|Private|Janice Kwan, MD|Constipation
+10S_UNV|10-033|A|CARUANA, JOSEPHINE|||805-172-664|2015-551781| 90 Years|F|2015/04/05|General Medicine|Semi-private|Semi-private|Mirek Otremba, MD|CHF exacerbation
+10S_UNV|10-033|B|||||||||||||
+10S_UNV|10-034|A|||||||||||||
+10S_UNV|10-034|B|HEMSTEAD, SHARON LEE|Droplet/Contact|Yes|418-762-878|2015-544038| 71 Years|F|2015/03/31|General Medicine|Ward|Semi-private|Shiphra Ginsburg, MD|AECOPD
+10S_UNV|10-035|A|MCFADDEN, ANNE MARIE|||805-176-955|2015-551839| 58 Years|F|2015/04/06|General Medicine|Unknown|Semi-private|Balter, Meyer|Falls
+10S_UNV|10-035|B|BARNARD, DESPINA MARIA|||805-282-517|2015-546194| 79 Years|F|2015/03/31|General Medicine|Semi-private|Semi-private|Janice Kwan, MD|Dental abscess
+10S_UNV|10-036|A|BARTELLI, ELVIRA|||805-999-962|2015-550967| 91 Years|F|2015/04/04|General Medicine|Ward|Semi-private|Mirek Otremba, MD|HF exacerbation
+10S_UNV|10-036|B|MELROSE, HELEN MAY|||427-277-181|2015-526621| 87 Years|F|2015/03/18|General Medicine|Ward|Semi-private|Mirek Otremba, MD|Afib/CHF
+10S_UNV|10-037|A|DIAZ, ERIBERTO MATEO|||805-798-361|2015-541228| 87 Years|M|2015/03/28|General Medicine|Ward|Semi-private|Janice Kwan, MD|Functional decline
+10S_UNV|10-037|B|CZABAN, STEPHEN JOHN|Old MRSA Positiv|No|805-230-056|2015-310700| 63 Years|M|2014/10/24|General Medicine|Ward|Semi-private|Balter, Meyer|Sepsis
+10S_UNV|10-038|A|FRIEDBERG, ABRAHAM MARTIN|||420-367-070|2015-556969| 70 Years|M|2015/04/08|General Medicine|Semi-private|Private|Mirek Otremba, MD|pneumonia
+10S_UNV|10-039|A|BHANJI, DOLATKHANU SULEMAN||No|805-769-982|2015-541500| 82 Years|F|2015/03/28|General Medicine|Ward|Semi-private|Janice Kwan, MD|Heart Failure
+10S_UNV|10-039|B|FINN, JEAN MARY|||805-688-868|2015-556980| 74 Years|F|2015/04/08|General Medicine|Unknown|Semi-private|Balter, Meyer|pelvic fracture
+10S_UNV|10-040|A|RADBONE, CONNELLY R|Droplet/Contact|Yes|806-002-340|2015-556931| 70 Years|M|2015/04/08|General Medicine|Unknown|Private|Shiphra Ginsburg, MD|SAH
+10S_UNV|10-041|A|||||||||||||
+10S_UNV|10-041|B|DAGENAIS, EDWARD|||800-047-730|2015-537494| 65 Years|M|2015/03/26|General Medicine|Ward|Semi-private|Mirek Otremba, MD|Hyperglycaemia
+10S_UNV|10-042|A|AMER, MUHAMMED ALI||No|806-001-950|2015-552142| 45 Years|M|2015/04/06|General Medicine|Ward|Semi-private|Janice Kwan, MD|IBD flare
+10S_UNV|10-042|B|PRINGLE, ALLAN COLLIER||No|805-997-165|2015-516207| 72 Years|M|2015/03/11|General Medicine|Ward|Semi-private|Detsky , Allan|Dysphagia
+10S_UNV|10-043|A|OLEARY, DENNIS FRANCIS|||805-704-534|2015-550958| 88 Years|M|2015/04/04|General Medicine|Unknown|Semi-private|Mirek Otremba, MD|Hyponatraemia
+10S_UNV|10-043|B|||||||||||||
+11LM|1101|A|TIEU, JENNIFER||No|805-978-093|2015-538236| 39 Years|F|2015/04/08|Oncology|Ward|Ward|Albiruni Ryan Razak, MD|SARCOMA
+11LM|1101|B|||||||||||||
+11LM|1101|C|DREITSER, OLEG BORIS|Old C Difficile|No|805-674-613|2015-553519| 31 Years|M|2015/04/08|Oncology|Ward|Ward|Albiruni Ryan Razak, MD|SARCOMA
+11LM|1101|D|PARDY, RANDY ROSS||No|805-986-610|2015-538207| 25 Years|M|2015/04/08|Oncology|Ward|Ward|Albiruni Ryan Razak, MD|SARCOMA
+11LM|1102|A|||||||||||||
+11LM|1102|B|AZADAH, ABDUL AZIZ TURABI||No|805-447-668|2015-544737| 59 Years|M|2015/04/09|CCI - Sarcoma|Ward|Semi-private|Peter Ferguson, MD|TUMOR RIGHT PARASPINAL REGION
+11N|1116|A|SLATER, BARRY L||No|805-713-863|2015-547281| 75 Years|M|2015/04/09|CCI - Joint|Semi-private|Semi-private|Oleg Safir, MD|OSTEOARTHRITIS LEFT HIP
+11N|1116|B|MACDONALD, JAMES URIAH||No|805-993-970|2015-541027| 18 Years|M|2015/04/08|Dentistry|Ward|Semi-private|Cameron Clokie, MD|DENTOFACIAL DEFORMITY
+11N|1117|A|PETERSEN, CHANTAL EMELIE|C Difficile Posi|Yes|805-998-025|2015-556974| 39 Years|F|2015/04/08|Gastroenterology|Unknown|Private|Gordon Greenberg, MD|UC flare
+11N|1118|A|SAFARYAN, ARMENAK||No|805-989-292|2015-525567| 50 Years|M|2015/03/18|Otolaryngology|Ward|Private|Freeman, Jeremy L.|AIRWAY OBSTRUCTION
+11N|1119|A|KOTILAINEN, ANTTI JOHANESS||No|804-033-330|2015-547010| 68 Years|M|2015/04/01|Otolaryngology|Private|Private|Freeman, Jeremy L.|? tracheobronchial disruption
+11N|1120|A|BASANTES ESPINOZA, WILSON F|||805-849-553|2015-545784| 54 Years|M|2015/03/31|Otolaryngology|Ward|Private|Witterick, Ian|ORAL CARCINOMA
+11N|1121|A|MARICIAK, DEBRA JANE||No|802-855-668|2015-553160| 59 Years|F|2015/04/09|CCI - Joint|Semi-private|Semi-private|Oleg Safir, MD|OSTEOARTHRITIS RIGHT KNEE
+11N|1121|B|MERTIRI, DENISA|||805-362-070|2015-559170| 27 Years|F|2015/04/09|General Surgery|Unknown|Semi-private|GLADDY, REBECCA ANNE|Appendicitis
+11N|1122|A|PASCALL, JOSEPH RAYBURN|||805-966-450|2015-559062| 57 Years|M|2015/04/09|General Surgery|Unknown|Semi-private|Macrae , Helen M.|Abscess/seroma
+11N|1122|B|STEVENSON, CONOR SHERIDAN||No|805-999-075|2015-556752| 24 Years|M|2015/04/09|Dentistry|Ward|Semi-private|Cameron Clokie, MD|LT ANGLE NON-UNION #
+11N|1123|A|||||||||||||
+11N|1123|B|SO, LI XAN|||805-198-282|2015-551854| 74 Years|F|2015/04/06|Otolaryngology|Ward|Semi-private|Jerry Chapnik, MD|Infraorbital abscess
+11N|1124|A|MOORES, KATHRYN LYNN||No|805-995-947|2015-550306| 59 Years|F|2015/04/06|CCI - Joint|Semi-private|Semi-private|David Backstein, MD|PAINFUL RIGHT TOTAL KNEE ARTHROP
+11N|1124|B|PETRAITIS, DANA PRUDENCE||No|804-532-885|2015-553836| 88 Years|F|2015/04/09|CCI - Joint|Ward|Semi-private|Oleg Safir, MD|FAILED FEMORAL COMPONENT
+11N|1125|A|HREHORSKY, DONALD ALEXANDER||No|805-995-979|2015-544877| 70 Years|M|2015/04/08|CCI - Joint|Semi-private|Semi-private|David Backstein, MD|RIGHT KNEE OSTEOARTHRITIS
+11N|1125|B|SOARES, RAIMUNDO JOSE||No|802-766-345|2015-479626| 83 Years|M|2015/02/24|Ortho Reconstruc|Ward|Semi-private|Allan Gross, MD|LOOSE LEFT HIP
+11N|1126|A|BOKHARI, AISHA ARIF|||805-647-413|2015-559260| 23 Years|F|2015/04/09|Gastroenterology|Unknown|Semi-private|Herbert Gaisano, MD|Crohns
+11N|1126|B|SILK, KIRSTEN JOYCE||No|802-530-626|2015-544762| 20 Years|F|2015/04/09|Dentistry|Ward|Semi-private|Howard Ian Holmes, MD|DENTOFACIAL DEFORMITY
+11N|1127|A|JANES, CATHERINE JEAN||No|803-443-555|2015-544661| 36 Years|F|2015/04/09|Gynecology|Semi-private|Semi-private|Mara Sobel|ADENOMYOSIS
+11N|1127|B|EDWARD, NICOLA GILLIAN||No|805-887-960|2015-544671| 33 Years|F|2015/04/09|Gynecology|Semi-private|Semi-private|Michael Sved, MD|BILATERAL OVARIAN CYST
+11N|1128|A|GRECO, ROSANNA||No|449-474-451|2015-544792| 71 Years|F|2015/04/08|CCI - Joint|Ward|Ward|David Backstein, MD|RIGHT KNEE OSTEOARTHRITIS
+11N|1128|B|LAPLANTE, LISA MICHELLE MIL||No|805-987-482|2015-546944| 45 Years|F|2015/04/07|CCI - Joint|Ward|Ward|Allan Gross, MD|LOOSE LEFT HIP
+11N|1128|C|ROUXEL, JANET LOUISE||No|805-985-100|2015-547276| 74 Years|F|2015/04/09|CCI - Joint|Ward|Ward|Oleg Safir, MD|PAINFUL RIGHT HIP
+11N|1128|D|DHRUNKYI, TSETEN||No|805-552-060|2015-559155| 39 Years|F|2015/04/09|General Surgery|Unknown|Ward|GLADDY, REBECCA ANNE|Acute cholecystitis
+11N|1129|A|BARKWELL, CARRIE ANN||No|806-002-296|2015-556349| 36 Years|F|2015/04/08|Gastroenterology|Unknown|Ward|Kenneth Croitoru, MD|crohn's disease
+11N|1129|B|SLATER, BARBARA|||416-476-695|2015-549667| 70 Years|F|2015/04/02|General Surgery|Unknown|Ward|Erin Diane Kennedy, MD|sepsis
+11N|1129|C|COZZA, PINA|||805-963-479|2015-559188| 50 Years|F|2015/04/09|Orthopedic Surge|Ward|Ward|Peter Ferguson, MD|TUMOUR LEFT 2ND METATARSAL
+11N|1129|D|KING, IVI RIIVES||No|442-885-018|2015-540585| 78 Years|F|2015/04/07|CCI - Joint|Ward|Ward|Allan Gross, MD|SEVERE OSTEOARTHRITIS RIGHT HIP
+11N|1130|A|PETRIE, STEPHEN|||446-574-881|2015-554630| 91 Years|M|2015/04/07|General Medicine|Unknown|Ward|Balter, Meyer|Penile infection, trifascicula
+11N|1130|B|KHOSROWBEYGI, MOHAMMAD HASS|||805-979-341|2015-557034| 47 Years|M|2015/04/09|General Surgery|Ward|Ward||post-op abscess
+11N|1130|C|VIRGILIO, VINCENZO MARIO||No|805-993-191|2015-544873| 72 Years|M|2015/04/08|CCI - Joint|Ward|Ward|David Backstein, MD|LEFT KNEE OSTEOARTHRITIS
+11N|1130|D|SHARBY, THOMAS F||No|805-574-613|2015-544794| 73 Years|M|2015/04/08|CCI - Joint|Ward|Ward|David Backstein, MD|RIGHT KNEE OSTEOARTHRITIS
+11S|1103|A|CLARK, FREDERICK GEORGE||No|805-966-957|2015-544754| 77 Years|M|2015/04/09|CCI - Sarcoma|Semi-private|Semi-private|Peter Ferguson, MD|TUMOR RIGHT THIGH
+11S|1103|B|SNELGROVE, DAVID||No|805-984-020|2015-544881| 70 Years|M|2015/04/08|CCI - Sarcoma|Semi-private|Semi-private|Wunder , Jay S|SARCOMA LEFT CALF
+11S|1104|A|BUTCHER, PHILIP GEOFFREY||No|256-724-949|2015-541039| 56 Years|M|2015/04/08|CCI - Sarcoma|Ward|Semi-private|Wunder , Jay S|SARCOMA RIGHT CALF
+11S|1104|B|BONDI, SALVATORE||No|805-653-065|2015-525636| 82 Years|M|2015/03/23|CCI - Sarcoma|Ward|Semi-private|Peter Ferguson, MD|SARCOMA LEFT BUTTOCK
+11S|1105|A|DACOSTA, NOLLIS NEWTON||No|805-342-303|2015-544749| 51 Years|M|2015/04/09|CCI - Sarcoma|Ward|Semi-private|Peter Ferguson, MD|TUMOR LEFT ACETABULUM
+11S|1105|B|||||||||||||
+11S|1106|A|TREVISAN, GIOVANNI BATTIS||No|800-190-134|2015-556841| 72 Years|M|2015/04/08|Ortho Reconstruc|Unknown|Semi-private||Trimalleolar Fracture dislocat
+11S|1106|B|SPYKERMAN, RICHARD OTTO||No|805-979-306|2015-485460| 40 Years|M|2015/03/05|CCI - Sarcoma|Ward|Semi-private|Peter Ferguson, MD|OSTEOSARCOMA RIGHT PELVIS
+11S|1107|A|DOUCET, THIMOTHY ALLEN||No|805-993-566|2015-547273| 50 Years|M|2015/04/07|CCI - Sarcoma|Ward|Semi-private|Wunder , Jay S|RENAL METASTASIS PATHOLOGICAL FR
+11S|1107|B|TAILLEFER, DANIEL RICHARD||No|805-973-942|2015-487232| 67 Years|M|2015/02/22|Orthopedic Surge|Ward|Semi-private|Wunder , Jay S|febrile neutropenia
+11S|1108|A|KESTENBERG, LOUIS||No|805-492-847|2015-551365| 92 Years|M|2015/04/04|Orthopedic Surge|Ward|Semi-private|Oleg Safir, MD|R Hip #
+11S|1108|B|RIVIERA, ELDON KENRICK||No|805-955-693|2015-544760| 41 Years|M|2015/04/09|CCI - Sarcoma|Semi-private|Semi-private|Wunder , Jay S|SARCOMA RIGHT DISTAL FEMUR
+11S|1109|A|CONNOLLY, TULA MARY|||469-945-448|2015-552204| 61 Years|F|2015/04/07|Orthopedic Surge|Unknown|Ward|John Theodoropoulos, MD|Left Ankle Fracture
+11S|1109|B|SEBASTIAN, ALICIA ALEXANDRA||No|805-796-759|2015-541040| 28 Years|F|2015/04/08|CCI - Sarcoma|Semi-private|Ward|Wunder , Jay S|SYNOVIAL SARCOMA
+11S|1109|C|MO, JAMIE||No|805-965-539|2015-507134| 56 Years|F|2015/03/13|CCI - Sarcoma|Ward|Ward|Wunder , Jay S|BUTTOCK MASS
+11S|1109|D|AUSTIN, DEBORAH AILEEN||No|451-146-567|2015-552210| 59 Years|F|2015/04/07|Orthopedic Surge|Unknown|Ward|John Theodoropoulos, MD|Right Subtrochanteric #
+11S|1110|A|||||||||||||
+11S|1110|B|||||||||||||
+11S|1110|C|||||||||||||
+11S|1110|D|||||||||||||
+11S|1111|A|LEE, HELENE CATHERINE|||805-979-667|2015-552130| 82 Years|F|2015/04/06|Ortho Reconstruc|Semi-private|Ward|John Theodoropoulos, MD|Right thigh post op hematoma
+11S|1111|B|DIAMOND, LYNN SUZANNE||No|805-978-929|2015-554397| 59 Years|F|2015/04/10|Radiology|Private|Ward|John Kachura, MD|FIBROIDS
+11S|1111|C|ZUCKER, REGINA||No|801-791-344|2015-541169| 93 Years|F|2015/03/27|Orthopedic Surge|Ward|Ward|Tim Dwyer, MD|L Hip #
+11S|1111|D|DE WET, NINA MARIA|||805-998-535|2015-557033| 66 Years|F|2015/04/09|General Surgery|Unknown|Ward|Carol Swallow, MD|cecal cancer
+11S|1112|A|MCBRIEN, JUNE|Previous Foreign|Yes|806-002-719|2015-559270| 86 Years|F|2015/04/10|Orthopedic Surge|Unknown|Private|Oleg Safir, MD|R hip fracture
+11S|1113|A|LI, DAVID||No|806-000-824|2015-542799| 48 Years|M|2015/04/08|Radiology|Private|Private||HEPATOMA
+11S|1114|A|THREUMER, MARY-JANE||No|805-979-366|2015-497142| 47 Years|F|2015/03/30|CCI - Sarcoma|Semi-private|Private|Anne O'Neill, MD|SARCOMA RIGHT LATERAL KNEE
+11S|1115|A|AUSTRIA, ANGELO OSIA|MRSA Positive|Yes|805-574-861|2015-471949| 36 Years|M|2015/02/10|Ortho Sarcoma|Semi-private|Private|Peter Ferguson, MD|L thigh sarcoma
+12S|1201|A|ALSHAKHOURI, MOHAMMED SAUD|||806-002-216|2015-556835| 22 Years|M|2015/04/08|General Medicine|Private|Private|Mirek Otremba, MD|Pancreatitis, pancreas mass NY
+12S|1202|A|MACCRONE, MICHAEL PAUL|C Difficile Posi|Yes|805-408-588|2015-552198| 62 Years|M|2015/04/07|General Medicine|Unknown|Private|Janice Kwan, MD|UGIB
+12S|1203|A|MOZES, SUSAN DOROTHY||No|451-627-913|2015-526634| 61 Years|F|2015/03/18|General Medicine|Unknown|Private|Shiphra Ginsburg, MD|left humerus fracture
+12S|1204|A|URSULOM, JACINTA|||806-002-184|2015-554668| 97 Years|F|2015/04/08|General Medicine|Unknown|Semi-private|Shiphra Ginsburg, MD|CHF, Anasarca
+12S|1204|B|PUDDISTER, MARGARET|||806-000-337|2015-539505| 71 Years|F|2015/03/27|General Medicine|Unknown|Semi-private|Janice Kwan, MD|Hyperthyroidism
+12S|1205|A|LUSH, SHIRLEY ELIZABETH MAR|||805-934-832|2015-485031| 44 Years|F|2015/02/19|General Medicine|Ward|Semi-private|Balter, Meyer|Upper GI Bleed
+12S|1205|B|BENTLEY, MARY MENEN|||805-227-046|2015-544021| 79 Years|F|2015/03/31|General Medicine|Ward|Semi-private|Janice Kwan, MD|Ataxia
+12S|1206|A|HYSLOP, DAPHNE BOWER|||805-998-972|2015-530057| 91 Years|F|2015/03/20|General Medicine|Ward|Semi-private|Mirek Otremba, MD|Delirium
+12S|1206|B|GUZYLAK, KATHRYN|||805-547-012|2015-543903| 85 Years|F|2015/03/30|General Medicine|Ward|Semi-private|Janice Kwan, MD|Urosepsis
+12S|1208|A|ROSENZWEIG, RONALD JEFFREY|||806-000-946|2015-558120| 59 Years|M|2015/04/09|General Medicine|Unknown|Semi-private|Shiphra Ginsburg, MD|?Metastatic renal Ca
+12S|1208|B|HARDWICK, ANTHONY ARNOLD|||805-489-829|2015-559283| 76 Years|M|2015/04/10|General Medicine|Unknown|Semi-private|Janice Kwan, MD|pneumonia
+12S|1209|A|GRAMOLINI, LORINDA|||400-285-532|2015-550957| 75 Years|F|2015/04/04|General Medicine|Semi-private|Semi-private|Mirek Otremba, MD|Neuropathic pain NYD
+12S|1209|B|SO, ANNE|||804-061-752|2015-548536| 64 Years|F|2015/04/01|General Medicine|Unknown|Semi-private|Balter, Meyer|malignancy nyd
+12S|1210|A|CUPCHIK, ZELDA|||805-702-189|2015-382217| 86 Years|F|2014/12/09|General Medicine|Ward|Ward|Mirek Otremba, MD|DEPRESSION
+12S|1210|B|CAPLAN, SYLVIA|||202-351-862|2015-559299| 89 Years|F|2015/04/10|Orthopedic Surge|Unknown|Ward|Oleg Safir, MD|L hip #/L wrist #
+12S|1210|C|SORBERA, MARIA G|||805-789-602|2015-543930| 85 Years|F|2015/03/30|General Medicine|Ward|Ward|Shiphra Ginsburg, MD|Hip fracture
+12S|1210|D|SZAMOSI, ASZNAT|||805-046-676|2015-559239| 91 Years|F|2015/04/09|General Medicine|Unknown|Ward|Balter, Meyer|change in mental status
+12S|1211|A|EL-MASRI, ABDALLAH MASRI|||434-701-074|2015-405717| 74 Years|M|2014/12/28|General Medicine|Unknown|Semi-private|Janice Kwan, MD|fall
+12S|1211|B|BARCLAY, ANTHONY TERBERVILL||No|805-486-755|2015-557721| 85 Years|M|2015/04/09|General Medicine|Unknown|Semi-private|Janice Kwan, MD|UGI Bleed
+12S|1212|A|PAQUIN, PATRICIA ANN GEORGI|||805-996-052|2015-507259| 72 Years|F|2015/03/05|General Medicine|Ward|Semi-private|Mirek Otremba, MD|Delirium
+12S|1212|B|EZEARD, CAROL ANN|||805-989-563|2015-554671| 64 Years|F|2015/04/08|General Medicine|Ward|Semi-private|Mirek Otremba, MD|Sepsis
+12S|1213|A|BOCZYLO, OLGA||No|419-330-386|2015-524683| 92 Years|F|2015/03/18|General Medicine|Ward|Semi-private|Shiphra Ginsburg, MD|Intraventricular hemorrhage
+12S|1213|B|MITCHELL, EDITH JOAN|||804-005-122|2015-552162| 74 Years|F|2015/04/06|General Medicine|Ward|Semi-private|Mirek Otremba, MD|High Risk for Falls
+12S|1215|A|PARSONS, PHILP GORDON||No|806-001-170|2015-546196| 87 Years|M|2015/03/31|General Medicine|Ward|Private|Janice Kwan, MD|Delirium
+14N|1416|A|CHAMBERS, THOMAS HOWARD||No|805-804-736|2015-480791| 58 Years|M|2015/02/17|General Surgery|Private|Private|Andrea McCart, MD|wound dehiscence post-laparoto
+14N|1417|A|WELLHAUSER, CHANTAL ALICE C||No|803-960-491|2015-542893| 76 Years|F|2015/04/07|General Surgery|Semi-private|Semi-private|Macrae , Helen M.|RECTAL PROLAPSE
+14N|1417|B|REYNOLDS, BILLIE JO DIANNA||No|802-674-960|2015-534346| 41 Years|F|2015/03/30|CCI - Digestive|Ward|Semi-private|Carol Swallow, MD|RECTAL GASTROINTESTINA STROMAL T
+14N|1418|A|SYPOSZ, THADDEUS EDWARD|VRE Positive|Yes|549-249-498|2015-532096| 79 Years|M|2015/03/23|General Surgery|Ward|Private|Andrea McCart, MD|FAILURE TO COPE ACUTE KIDNEY
+14N|1419|A|GRAHAM, FREDA||No|805-989-208|2015-453003| 67 Years|F|2015/02/02|General Surgery|Semi-private|Semi-private|Alexandra Easson, MD|WOUND INFECTION
+14N|1419|B|POCOCK, DONNA ANNETTE||No|805-866-870|2015-488846| 68 Years|F|2015/02/23|General Surgery|Ward|Semi-private||PERITONEAL MALIGANCY
+14N|1420|A|FITCHETT, VIVIEN DIANNE||No|805-911-721|2015-081368| 67 Years|F|2014/06/02|CCI - Digestive|Ward|Semi-private|Carol Swallow, MD|CHORDOMA  SACRUM
+14N|1420|B|YUNGBLUT, DEBRA DAWN||No|805-994-136|2015-491285| 57 Years|F|2015/03/03|CCI - Digestive|Semi-private|Semi-private||RECTOSIGMOID CANCER
+14N|1421|A|PETRONE, UMBERTO ROBERT||No|805-969-357|2015-534189| 48 Years|M|2015/04/01|CCI - Digestive|Ward|Semi-private||RECTAL CANCER
+14N|1421|B|CHANDLER, NORMAN SCOTT|||805-350-816|2015-535265| 43 Years|M|2015/03/24|General Surgery|Private|Semi-private|Savtaj Brar, MD|Small bowel obstruction
+14N|1422|A|ARRUDA, MARIA VENERANDA||No|802-585-042|2015-540395| 61 Years|F|2015/04/07|CCI - Digestive|Semi-private|Semi-private|Andrea McCart, MD|MUCINOUS APPENDIX CANCER
+14N|1422|B|BRATOVIC, SYLVIA|||805-736-187|2015-550942| 41 Years|F|2015/04/03|General Surgery|Unknown|Semi-private|Zane Cohen, MD|bowel obstruction
+14N|1423|A|YOUNG, SUSAN JOAN|Old C Difficile|No|805-934-895|2015-552106| 61 Years|F|2015/04/06|General Surgery|Semi-private|Semi-private||Intrabdominal collection
+14N|1423|B|HINE, CARLY MAY STEPHANY||No|805-461-597|2015-550895| 33 Years|F|2015/04/03|General Surgery|Ward|Semi-private|Macrae , Helen M.|Failure to cope / stoma compli
+14N|1424|A|ROSE, LUCY FATIMA|||462-063-470|2015-551346| 55 Years|F|2015/04/04|General Surgery|Semi-private|Semi-private|Alexandra Easson, MD|Small Bowel Obstruction
+14N|1424|B|STEEL, ANDREE||No|805-964-915|2015-466038| 53 Years|F|2015/02/13|CCI - Digestive|Semi-private|Semi-private|Carol Swallow, MD|RECURRENT RECTAL CANCER
+14N|1425|A|REYNOLDS, TRICIA LYNN||No|805-883-110|2015-530848| 33 Years|F|2015/03/22|CCI - Digestive|Semi-private|Semi-private|Andrea McCart, MD|CECAL ADENOCARCINOMA
+14N|1425|B|GURRERI, GUISEPPINA|||805-668-390|2015-544467| 21 Years|F|2015/03/31|General Surgery|Unknown|Semi-private|Andrea McCart, MD|Small Bowel Necrosis
+14N|1426|A|POPESKI, JESSICA MARIE|||805-945-596|2015-552013| 25 Years|F|2015/04/06|General Surgery|Unknown|Semi-private|Alexandra Easson, MD|SBO
+14N|1426|B|GALLOGLEY, BRENDA FERN||No|805-973-700|2015-525543| 55 Years|F|2015/03/29|CCI - Digestive|Semi-private|Semi-private|Andrea McCart, MD|PERITONEAL CARCINOMATOSIS
+14N|1427|A|FELLOWS, GAIL MARIE||No|805-853-981|2015-553505| 72 Years|F|2015/04/08|CCI - Digestive|Ward|Semi-private|GLADDY, REBECCA ANNE|RETROPERITONEAL SARCOMA
+14N|1427|B|CARVALHO, ANA PAULA|||805-149-991|2015-538280| 38 Years|F|2015/03/26|General Surgery|Unknown|Semi-private|Gryfe, Robert|Obstruction
+14N|1428|A|KAZIMIERCZUK, ADAM||No|805-998-301|2015-540818| 58 Years|M|2015/04/02|CCI - Digestive|Ward|Ward|Savtaj Brar, MD|RECTAL CANCER
+14N|1428|B|GARDNER, TYLER WAYNE CARL|||803-204-502|2015-550925| 35 Years|M|2015/04/03|General Surgery|Unknown|Ward|Alexandra Easson, MD|Jaundice
+14N|1428|C|BUTERA, DAVID EMANUELE||No|806-001-530|2015-548569| 40 Years|M|2015/04/02|General Surgery|Ward|Ward|Carol Swallow, MD|Crohn's
+14N|1428|D|HAGINO, MICHAEL KAZUMI|||805-777-074|2015-552205| 60 Years|M|2015/04/07|Urology|Ward|Ward|Alexandre Zlotta, MD|RETROPERITONEAL BLEED
+14N|1429|A|ROTENBERG, AARON MILLER||No|001-248-749|2015-558455| 36 Years|M|2015/04/09|Urology|Unknown|Semi-private|Keith Jarvi, MD|Obstructive Uropathy
+14N|1429|B|PEREIRA, LEONEL MENDONCA||No|805-790-361|2015-520318| 43 Years|M|2015/03/15|General Surgery|Private|Semi-private|Gryfe, Robert|Ulcerative colitis flare
+14S|1402|A|||||||||||||
+14S|1402|B|HOUSLEY DAVIS, SUSAN LYNN|MRSA Positive|Yes|119-488-245|2015-542888| 49 Years|F|2015/04/07|General Surgery|Private|Semi-private|Macrae , Helen M.|ULCERATIVE COLITIS
+14S|1403|A|MAJ, MARIAN STANLEY||No|805-972-603|2015-540382| 53 Years|M|2015/04/07|General Surgery|Semi-private|Semi-private|Zane Cohen, MD|DIVERTICULA
+14S|1403|B|DACOSTA, PETER||No|805-947-910|2015-540998| 50 Years|M|2015/04/08|CCI - Digestive|Semi-private|Semi-private|Macrae , Helen M.|RECTAL CANCER
+14S|1404|A|||||||||||||
+14S|1404|B|||||||||||||
+14S|1405|A|MIRZA, ALLEN REZA||No|006-015-071|2015-554707| 34 Years|M|2015/04/08|General Surgery|Ward|Semi-private|Erin Diane Kennedy, MD|Meckels Diverticulitis
+14S|1405|B|TSUGAWA, SHOSHIRO|||805-553-444|2015-550790| 86 Years|M|2015/04/03|General Surgery|Ward|Semi-private|Alexandra Easson, MD|Ascending Cholangitis
+14S|1406|A|JOWREY, JULIETTA NICOLA||No|805-985-834|2015-540934| 39 Years|F|2015/04/08|General Surgery|Semi-private|Semi-private|Macrae , Helen M.|CROHN'S DISEASE
+14S|1406|B|PARKINSON, TERESA||No|805-426-571|2015-497063| 50 Years|F|2015/03/27|General Surgery|Semi-private|Semi-private|Zane Cohen, MD|ULCERATIVE COLITIS
+14S|1407|A|||||||||||||
+14S|1407|B|||||||||||||
+14S|1408|A|MACALPINE, KIMBERLEY ANNE||No|805-283-207|2015-552209| 42 Years|F|2015/04/07|General Surgery|Unknown|Semi-private|Carol Swallow, MD|SBO
+14S|1408|B|GABRIELE, DOROTHY ROSE|Old VRE Case|No|465-603-694|2015-540379| 55 Years|F|2015/04/07|General Surgery|Ward|Semi-private|Erin Diane Kennedy, MD|FISTULA
+14S|1409|A|PENNER, MARY MARGARET||No|805-347-249|2015-497252| 47 Years|F|2015/03/31|General Surgery|Ward|Ward|Zane Cohen, MD|ULCERATIVE COLITIS / HERNIA REPA
+14S|1409|B|KARIMABADI, SAMIRA|||805-385-380|2015-532788| 34 Years|F|2015/03/23|General Surgery|Ward|Ward|Zane Cohen, MD|STOMA
+14S|1409|C|||||||||||||
+14S|1409|D|GIANCOLA, MARIA LUISA|||417-226-149|2015-537465| 77 Years|F|2015/03/25|General Surgery|Ward|Ward|Macrae , Helen M.|Pancreatitis
+14S|1410|A|PRESTA, FRANCO||No|805-955-690|2015-528603| 36 Years|M|2015/03/20|General Surgery|Semi-private|Ward|Erin Diane Kennedy, MD|Crohn's
+14S|1410|B|||||||||||||
+14S|1410|C|CANETE, RHODDIN REY INIGO|||805-953-276|2015-558345| 41 Years|M|2015/04/09|General Surgery|Unknown|Ward|GLADDY, REBECCA ANNE|Diverticulitis
+14S|1410|D|HOGAN, LUKE EDWARD||No|806-000-070|2015-537200| 31 Years|M|2015/03/25|General Surgery|Ward|Ward|Erin Diane Kennedy, MD|CROHN'S
+14S|1411|A|LIAO, RICHARD||No|805-996-296|2015-545066| 39 Years|M|2015/04/08|CCI - Digestive|Ward|Ward|Savtaj Brar, MD|RECTAL CANCER
+14S|1411|B|TOBIN, ROBERT EDWARD|||805-319-556|2015-530535| 45 Years|M|2015/03/22|General Surgery|Ward|Ward|Zane Cohen, MD|SMALL BOWEL OBSTRUCTION
+14S|1411|C|VLADULESCU RAMOS VARGAS, BO|Old C Difficile|No|805-552-294|2015-518315| 24 Years|M|2015/03/12|General Surgery|Ward|Ward|Gryfe, Robert|Perianal disease
+14S|1411|D|MACDONALD, DONALD ANGUS JAM|||805-944-809|2015-559119| 78 Years|M|2015/04/09|General Surgery|Unknown|Ward|GLADDY, REBECCA ANNE|Lower GI Bleed
+14S|1412|A|KUBLALSINGH, TERRENCE BEDE|||805-821-557|2015-550905| 53 Years|M|2015/04/03|General Surgery|Ward|Private|Erin Diane Kennedy, MD|SBO
+14S|1413|A|MARIYANESAN, SAHAYAMARY SHI|Previous C Diffi|Yes|805-994-267|2015-491489| 54 Years|F|2015/02/25|General Surgery|Ward|Private|Gryfe, Robert|Colitis
+14S|1414|A|DEAKEN, KAITLYN PAIGE||No|806-001-206|2015-546193| 20 Years|F|2015/03/31|General Surgery|Unknown|Private|Erin Diane Kennedy, MD|Ulcerative colitis
+14S|1415|A|MOULSON, AGNES|||805-935-752|2015-550657| 79 Years|F|2015/04/03|General Surgery|Private|Private|Macrae , Helen M.|Infected Hematoma
+14SD|1431|A|MCDONALD, DOUGLAS R|||805-103-493|2015-554652| 44 Years|M|2015/04/07|General Surgery|Unknown|Ward|Stephen Lapinsky, MD|Biliary Sepsis
+14SD|1432|A|SMITH, COLLEEN||No|806-001-361|2015-547355| 65 Years|F|2015/04/09|CCI - Digestive|Private|Ward|GLADDY, REBECCA ANNE|LEIOMYOSARCOMA
+14SD|1433|A|TOUEINI, NELLY|||805-980-261|2015-481943| 51 Years|F|2015/02/18|General Surgery|Ward|Ward|Carol Swallow, MD|MALNUTRITION, FAILURE TO THRIVE
+14SD|1434|A|ZAFAR, TALHA||No|805-986-882|2015-538758| 31 Years|M|2015/04/02|General Surgery|Private|Ward|Zane Cohen, MD|ULCERATIVE COLITIS
+EXAU|1214|A|HACHE, JOSEPH ROBERT|||805-414-689|2015-557029| 55 Years|M|2015/04/09|General Surgery|Unknown|Semi-private||obstructive jaundice
+EXAU|1214|B|ALLISON, RICHARD GLEN||No|806-001-956|2015-552157| 42 Years|M|2015/04/06|General Medicine|Ward|Semi-private|Balter, Meyer|Crohn's flare
+EXAU|1216|A|STEVENS, ANGELITA|||806-002-514|2015-558253| 28 Years|F|2015/04/09|General Medicine|Unknown|Semi-private|Balter, Meyer|Hyperglycemia/ETOH abuse
+EXAU|1216|B|LEVY, EUGENIE ELIZABETH||No|805-999-604|2015-554577| 59 Years|F|2015/04/07|General Surgery|Unknown|Semi-private|Savtaj Brar, MD|Metastatic Ca of Unknown Prima
+EXAU|1217|A|HAYES, ERIN KATHLEEN|||806-002-202|2015-554678| 32 Years|F|2015/04/08|General Medicine|Ward|Semi-private|Balter, Meyer|abdo pain NYD
+EXAU|1217|B|POURNARAS, ATHENA|||001-757-285|2015-552126| 31 Years|F|2015/04/06|General Medicine|Semi-private|Semi-private|Balter, Meyer|UTI
+EXAU|1218|A|DCLINE, PHILL AJ|||802-474-890|2015-556720| 47 Years|M|2015/04/08|Urology|Ward|Semi-private|Keith Jarvi, MD|priapism and urosepsis
+EXAU|1218|B|REN, MARTIN|||805-844-197|2015-559158| 21 Years|M|2015/04/09|General Surgery|Unknown|Semi-private|GLADDY, REBECCA ANNE|Small bowel obstruction
